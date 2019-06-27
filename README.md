@@ -1,2 +1,2 @@
 # TecBlog - O seu Blog de Tecnologia
-https://github.com/donzito/TecBlog/issues/1#issue-461594686
+![apresentacao](https://user-images.githubusercontent.com/49910898/60278730-5780e880-98d6-11e9-9174-49546aa5a042.gif)
